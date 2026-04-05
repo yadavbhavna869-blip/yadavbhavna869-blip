@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Bhavna
 
-<!--
-**yadavbhavna869-blip/yadavbhavna869-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 C/C++ Learner  
+🚀 Daily Coding Practice on GitHub  
+🧠 Improving Logic Step by Step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I'm Doing
+- Solving C/C++ programs daily
+- Building strong logic
+- Learning step by step
+
+---
+
+## 📅 Current Progress
+- ✅ Day 1: Factorial Program
+- 🔄 Day 2: Coming soon
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/bhavna-yadav-b7a0a4388
