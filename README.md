@@ -4,6 +4,10 @@
 💻 C/C++ Learner  
 🚀 Daily Coding Practice on GitHub  
 🧠 Improving Logic Step by Step  
+![C](https://img.shields.io/badge/C-Programming-blue)
+![C++](https://img.shields.io/badge/C++-Programming-orange)
+![Student](https://img.shields.io/badge/Student-B.Tech-green)
+![Focus](https://img.shields.io/badge/Focus-Daily%20Coding-red)
 
 ---
 
