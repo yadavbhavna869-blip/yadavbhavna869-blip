@@ -20,5 +20,11 @@
 
 ---
 
+## 🛠️ Languages & Tools
+- C
+- C++
+
+---
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/bhavna-yadav-b7a0a4388
