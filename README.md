@@ -20,12 +20,11 @@
 
 ## 📅 Current Progress
 
-🟩 **Day 1:** Factorial Program  
-🟦 **Day 2:** Reverse Number Program  
-🟩 **Day 3:** FizzBuzz Program  
-🟦 **Day 4:** Largest Number Program  
-🟩 **Day 5:** New Line Example Program
----
+- 🟢 **Day 1:** Factorial Program  
+- 🔵 **Day 2:** Reverse Number Program  
+- 🟢 **Day 3:** FizzBuzz Program  
+- 🔵 **Day 4:** Largest Number Program  
+- 🟢 **Day 5:** New Line Example Program
 
 ## 🛠️ Languages & Tools
 - C
