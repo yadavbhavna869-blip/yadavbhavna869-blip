@@ -25,6 +25,12 @@
 - 🟢 **Day 3:** FizzBuzz Program  
 - 🔵 **Day 4:** Largest Number Program  
 - 🟢 **Day 5:** New Line Example Program
+- 🟢 **Day 6:**
+- 🟢 **Day 7:** m to n number  Program
+
+
+
+
 
 ## 🛠️ Languages & Tools
 - C
