@@ -27,6 +27,8 @@
 - 🟢 **Day 5:** New Line Example Program
 - 🟢 **Day 6:**
 - 🟢 **Day 7:** m to n number  Program
+- 🟢 **Day :** array traversal  Program
+
 
 
 
